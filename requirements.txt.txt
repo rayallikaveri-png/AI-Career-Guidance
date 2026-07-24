@@ -2,3 +2,4 @@ Streamlit
 Pandas
 Scikit-learn
 pdfplumber
+numpy
